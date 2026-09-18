@@ -1,0 +1,2 @@
+# qrcode
+Offline QRcode generator
